@@ -1,7 +1,7 @@
 ## Hi there 🥴
 
-- 🤩 I’m currently working on a larger project, which I would consider one of my biggest so far.
-- 😪 Learning some new game engines 
+- 🤩 I’m currently working on a larger project, which I would consider one of my biggest so far
+- 😪 Currently learning a new game engine
 
 <!--
 **Shirkee/Shirkee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
